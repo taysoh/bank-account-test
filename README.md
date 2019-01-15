@@ -1,9 +1,9 @@
 ## how to install (required python 3.4 or higher)
--- 1. Clone repo and enter folder `git clone https://github.com/taysoh/bank-account-test.git bank` cd `bank`
--- 2. Create environment `python3 -m venv env`
--- 3. Activate it `source env/bin/activate`
--- 4. Install dependencies `pip install -r requirements.txt`
--- 5. run server `python3 ./transactions/main.py`
+1. Clone repo and enter folder `git clone https://github.com/taysoh/bank-account-test.git bank` cd `bank`
+2. Create environment `python3 -m venv env`
+3. Activate it `source env/bin/activate`
+4. Install dependencies `pip install -r requirements.txt`
+5. run server `python3 ./transactions/main.py`
 
 you'll able to test sockets on page `http://0.0.0.0:8080/`
 
